@@ -1,2 +1,5 @@
 # Visual studio stuff
-.vs
+bin/
+obj/
+.vs/
+*.cache
